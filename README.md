@@ -1,61 +1,37 @@
 # Projekt
-### Celem jest zbudowanie prostej gry, innej ni¿ Ping-Pong, wzorowanej na grach Atari na potrzeby rynku gier
-Przyk³adowe gry mo¿na znaleŸæ na stronie: https://www.retrogames.cz/konzole_atari2600.php
+### Celem jest zbudowanie gry Snake
 
-### Program sk³ada siê z czterech plików: 
+### Program skÅ‚ada siÄ™ z czterech plikÃ³w: 
 1. HTML
 2. JS
 3. CSS
-4. Readme (zawiera krótki opis gry i instrukcjê obs³ugi)
+4. Readme (zawiera krÃ³tki opis gry i instrukcjÄ™ obsÅ‚ugi)
 
-### Zawartoœæ pliku Readme
-Tutaj znajduje siê dokumentacja gry, a w niej:
+### ZawartoÅ›Ä‡ pliku Readme
+Tutaj znajduje siÄ™ dokumentacja gry, a w niej:
 
-1. Krótki opis gry. 
+1. KrÃ³tki opis gry. 
 	
-	Wybra³am grê "Snake", która polega na sterowaniu wê¿em za pomoc¹ klawiszy strza³ek tak, aby zjad³ jak najwiêcej pokarmu i nie uderzy³ w samego siebie, oraz nie wyszed³ poza pole gry.
-	W¹¿ porusza siê po prostok¹cie, a za ka¿dy zjedzony pokarm otrzymuje 10 punków. Celem gry jest zdobycie jak najwy¿szego wyniku.
+	WybraÅ‚am grÄ™ "Snake", ktÃ³ra polega na sterowaniu wÄ™Å¼em za pomocÄ… klawiszy strzaÅ‚ek tak, aby zjadÅ‚ jak najwiÄ™cej pokarmu i nie uderzyÅ‚ w samego siebie, oraz nie wyszedÅ‚ poza pole gry.
+	WÄ…Å¼ porusza siÄ™ po prostokÄ…cie, a za kaÅ¼dy zjedzony pokarm otrzymuje 10 punkÃ³w. Celem gry jest zdobycie jak najwyÅ¼szego wyniku.
 	
 	
-2. Dlaczego ta gra jest Twoim zdaniem atrakcyjna? Na czym polega jej grywalnoœæ?
+2. Dlaczego ta gra jest Twoim zdaniem atrakcyjna? Na czym polega jej grywalnoÅ›Ä‡?
 	
-	Jej atrakcyjnoœæ polega na tym, ¿e du¿o osób kojarzy tê grê z latami dzieciñstwa, kiedy grali w ni¹ na Nokii 3310.
-	By³a to jedna z pierwszych gier w telefonie, która wci¹ga³a na ca³e godziny. 
-	Poza tym, dziêki swojej prostocie w obs³udze, ka¿dy mo¿e w ni¹ graæ, niezale¿nie od wieku i umiejêtnoœci.
-	
-3. Przyk³ad u¿ycia wraz z rzutami ekranu dzia³ania gry.
-
-Poni¿szy zrzut ekranu przedstawia rozpoczêcie gry.
+	Jej atrakcyjnoÅ›Ä‡ polega na tym, Å¼e duÅ¼o osÃ³b kojarzy tÄ™ grÄ™ z latami dzieciÅ„stwa, kiedy grali w niÄ… na Nokii 3310.
+	ByÅ‚a to jedna z pierwszych gier w telefonie, ktÃ³ra wciÄ…gaÅ‚a na caÅ‚e godziny. 
+	Poza tym, dziÄ™ki swojej prostocie w obsÅ‚udze, kaÅ¼dy moÅ¼e w niÄ… graÄ‡, niezaleÅ¼nie od wieku i umiejÄ™tnoÅ›ci.
 
 
+3. Instrukcja obsÅ‚ugi.
 
-
-
-
-
-Kolejny zrzut ekranu ekranu zosta³ wykonany w czasie gry.
-
-
-
-Ostatni zrzut ekranu przedstawia zakoñczenie gry i mo¿liwoœæ rozpoczêcia nowej.
-
-
-4. Instrukcja obs³ugi.
-
-	Naciœniêcie strza³ki w górê - w¹¿ zmienia kierunek w górê
-	Naciœniêcie strza³ki w dó³ - w¹¿ zmienia kierunek w dó³
-	Naciœniêcie strza³ki w lewo - w¹¿ zmienia kierunek w lewo
-	Naciœniêcie strza³ki w prawo - w¹¿ zmienia kierunek w prawo
-	Naciœniêcie przycisku „NOWA GRA” – rozpoczêcie nowej gry
+	NaciÅ›niÄ™cie strzaÅ‚ki w gÃ³rÄ™ - wÄ…Å¼ zmienia kierunek w gÃ³rÄ™
+	NaciÅ›niÄ™cie strzaÅ‚ki w dÃ³Å‚ - wÄ…Å¼ zmienia kierunek w dÃ³Å‚
+	NaciÅ›niÄ™cie strzaÅ‚ki w lewo - wÄ…Å¼ zmienia kierunek w lewo
+	NaciÅ›niÄ™cie strzaÅ‚ki w prawo - wÄ…Å¼ zmienia kierunek w prawo
+	NaciÅ›niÄ™cie przycisku â€NOWA GRAâ€ â€“ rozpoczÄ™cie nowej gry
 
 UWAGA: 
-1. W¹¿ nie mo¿e uderzyæ w samego siebie oraz wyjœæ poza fioletowy prostok¹t.
+1. WÄ…Å¼ nie moÅ¼e uderzyÄ‡ w samego siebie oraz wyjÅ›Ä‡ poza fioletowy prostokÄ…t.
 
-2.Jeœli w¹¿ zmieni kierunek w lewo, nie mo¿e od razu zmieniæ kierunku w prawo, poniewa¿ zderzy³by siê ze sob¹ i gra zosta³aby zakoñczona. Tak samo jest w pozosta³ych sekwencjach, które nie mog¹ po sobie nast¹piæ: prawo?lewo, góra?dó³, dó³?góra.  
-
-
-### Ocenianie
-1. Pomys³ na grê i jej grywalnoœæ: 40%. 
-2. Niezawodnoœæ, przyjaznoœæ w u¿ytkowaniu i atrakcyjnoœæ wizualna: 40%
-3. Zgodnoœæ stylu napisanego kodu z wytycznymi zawartymi w repozytorium MP-2021-JS-INTRO: 20%.
-
+2.JeÅ›li wÄ…Å¼ zmieni kierunek w lewo, nie moÅ¼e od razu zmieniÄ‡ kierunku w prawo, poniewaÅ¼ zderzyÅ‚by siÄ™ ze sobÄ… i gra zostaÅ‚aby zakoÅ„czona. Tak samo jest w pozostaÅ‚ych sekwencjach, ktÃ³re nie mogÄ… po sobie nastÄ…piÄ‡: prawo-lewo, gÃ³ra-dÃ³Å‚, dÃ³Å‚-gÃ³ra.  
